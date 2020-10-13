@@ -1,0 +1,35 @@
+{
+    "name": "Unity.MARS.Editor",
+    "references": [
+        "Unity.MARS",
+        "Unity.XRTools.Utils.Editor",
+        "Unity.XRTools.Utils",
+        "Unity.MARS.Interfaces",
+        "Unity.XRTools.ModuleLoader.Interfaces",
+        "Unity.XRTools.ModuleLoader",
+        "Unity.XRTools.ModuleLoader.Editor",
+        "Unity.MARS.MARSHandles",
+        "Unity.MARS.HandlesEditor",
+        "Unity.Timeline",
+        "Unity.Timeline.Editor",
+        "Unity.Postprocessing.Editor",
+        "Unity.Postprocessing.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.postprocessing",
+            "expression": "2.0",
+            "define": "INCLUDE_POST_PROCESSING"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca78c691063e9a047b9e0ae45e773b50, type: 3}
+  m_Name: MarsObjectCreationResources
+  m_EditorClassIdentifier: 
+  m_ProxyObjectPreset: {fileID: 11400000, guid: c054cc7be9d2f4a01a548ed35eea2535,
+    type: 2}
+  m_ProxyGroupPreset: {fileID: 11400000, guid: 942728a2cfbaf4e64a6c8d32e6d75597, type: 2}
+  m_ReplicatorPreset: {fileID: 11400000, guid: 34ec8bd1f307c4b09a91893fcc3c2aaf, type: 2}
+  m_SyntheticPreset: {fileID: 11400000, guid: 69d8fc79938bd47a893636e5b73146b7, type: 2}
+  m_HorizontalPlanePreset: {fileID: 11400000, guid: d6e693a703165453f90d34f9aed50b4b,
+    type: 2}
+  m_VerticalPlanePreset: {fileID: 11400000, guid: a9c73341ec5ae44bf91e57aecf29a125,
+    type: 2}
+  m_ImageMarkerPreset: {fileID: 11400000, guid: 49168b08227a441f0ae995fdb2402f2c,
+    type: 2}
+  m_FaceMaskPreset: {fileID: 11400000, guid: f7e85022eabad4d3d8b67771ab277ad2, type: 2}
+  m_PlaneVisualsPreset: {fileID: 11400000, guid: 6cf50a3c7b52f41fdb5a3d4abe324514,
+    type: 2}
+  m_PointCloudVisualsPreset: {fileID: 11400000, guid: bb45a36f48fca4234aac8b8960344b6a,
+    type: 2}
+  m_FaceLandmarkVisualsPreset: {fileID: 11400000, guid: 9cb8f5c4caf6044d99508936dd30a50e,
+    type: 2}
+  m_SyntheticImageMarkerPreset: {fileID: 11400000, guid: 516b3b9222c28480a879adc23e5a56ad,
+    type: 2}

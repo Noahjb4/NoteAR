@@ -1,0 +1,15 @@
+{
+    "Exceptions":
+    [
+        {
+             "ValidationTest": "API Validation",
+             "ExceptionError": "Additions require a new minor or major version.",
+             "PackageVersion": "1.0.2"
+        },
+        {
+             "ValidationTest": "API Validation",
+             "ExceptionError": "New assembly \"Unity.MARS.NavMesh.EditorTests\" may only be added in a new minor or major version.",
+             "PackageVersion": "1.0.2"
+        }
+    ]
+}

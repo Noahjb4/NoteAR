@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ab0d4d219be74a438cbf3be0cd9bb11, type: 3}
+  m_Name: ObjectCreationButtonHorizontalPlane
+  m_EditorClassIdentifier: 
+  m_ButtonName: Horizontal Plane
+  m_Icon:
+    m_Dark: {fileID: 2800000, guid: b246f13186b764242bc6d04dadd0e9c9, type: 3}
+    m_Light: {fileID: 2800000, guid: abea158effe3d5742b22a702ead78e6e, type: 3}
+  m_Tooltip: A Game Object representing a plane with a horizontal facing.
+  m_Prefab: {fileID: 1537956875433956, guid: 464e984288cef1844b60c6d9511e9641, type: 3}

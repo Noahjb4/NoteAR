@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{16B373E5-8312-C878-B998-FC2CF6E3BF6D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Project/Scripts/PopulateCanvas.cs">
+    <Files>
+      <File FileName="Assets/_Project/Scripts/SceneLoader.cs" Line="11" Column="1" />
+      <File FileName="Assets/_Project/Scripts/PopulateCanvas.cs" Line="24" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PTC-v1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Project" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PopulateCanvas.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="10112cef-4bb0-4cbc-bff6-00771d94e46c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

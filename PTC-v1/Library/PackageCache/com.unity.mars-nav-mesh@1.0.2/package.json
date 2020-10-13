@@ -1,0 +1,18 @@
+{
+  "name": "com.unity.mars-nav-mesh",
+  "displayName": "MARS Nav Mesh",
+  "version": "1.0.2",
+  "unity": "2019.3",
+  "unityRelease": "0f6",
+  "description": "MARS extension that includes MARS Actions for building navmeshes on AR surfaces and driving a character/agent around on/between them\nNOTE: This package includes the scripts from NavMeshComponents (https://github.com/Unity-Technologies/NavMeshComponents)",
+  "dependencies": {
+    "com.unity.xrtools.utils": "1.0.1",
+    "com.unity.mars": "1.0.2"
+  },
+  "repository": {
+    "footprint": "0d70e32999734ff7329e11a580890c5a774b677e",
+    "type": "git",
+    "url": "https://github.com/UnityLabs/com.unity.labs.mars-nav-mesh.git",
+    "revision": "f95b422d94b5d76a256e16c354f19ceb2680e208"
+  }
+}

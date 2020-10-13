@@ -1,0 +1,27 @@
+{
+  "name": "com.unity.mars",
+  "version": "1.0.2",
+  "displayName": "MARS",
+  "description": "MARS is a Unity extension that streamlines current Unity functionality and adds new functionality to support augmented and mixed reality creation. MARS can be used in the Editor and in Player builds, or be embedded in native apps using Unity as a Library.",
+  "unity": "2019.3",
+  "unityRelease": "0f6",
+  "dependencies": {
+    "com.unity.xrtools.utils": "1.0.1",
+    "com.unity.xrtools.module-loader": "1.0.1",
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.timeline": "1.2.10"
+  },
+  "samples": [
+    {
+      "displayName": "MARS Sample Templates",
+      "description": "Larger in-depth samples and content for MARS.  The Game Template and Training Template + walkthrough system.",
+      "path": "Content~/Samples"
+    }
+  ],
+  "repository": {
+    "footprint": "f0234e41c5d0124e7658a09e7039005294c2da6f",
+    "type": "git",
+    "url": "https://github.com/UnityLabs/com.unity.labs.mars.git",
+    "revision": "cef3eb70190b1d8cc364bfd5e23a46cf884c5f23"
+  }
+}
